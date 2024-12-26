@@ -1,5 +1,5 @@
 {
-  "name": "cucumber-wdio-ios-framework",
+  "name": "cucumber-wdio-ios",
   "version": "1.0.0",
   "description": "iOS Calculator Tests using Appium, WebdriverIO (Typescript), Cucumber framework",
   "main": "index.js",
