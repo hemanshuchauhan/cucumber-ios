@@ -44,12 +44,7 @@ npm run test
 
 To generate allure report, after running the test, run the command: 'npm run allure'
 
-![Screenshot 2024-01-01 at 2 54 07 PM](https://github.com/hemanshuchauhan/iOS-Calculator-Appium-WebdriverIO-Cucumber/assets/63408724/8ad745a2-b86d-4604-aae2-570db11c3076)
-
-
 ## Dashboard
 
 After triggering the tests, navigate to http://localhost:4723/dashboard to view the dashboard.
-
-![Screenshot 2024-01-01 at 4 34 39 PM](https://github.com/hemanshuchauhan/iOS-Calculator-Appium-WebdriverIO-Cucumber/assets/63408724/38faf42a-b210-415a-ba6a-964a737ee791)
 
