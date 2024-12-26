@@ -1,4 +1,4 @@
-# cucumber-wdio-ios-framework
+# cucumber-wdio-ios
 
 ## Overview
  Automated testing suite using Appium, WebdriverIO (Typescript) and Cucumber framework to test an iOS caluclator app.
